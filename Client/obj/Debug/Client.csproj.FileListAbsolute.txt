@@ -1,0 +1,12 @@
+D:\Faculta\an-3\delia tuse\TCPServer\Client\bin\Debug\Client.exe.config
+D:\Faculta\an-3\delia tuse\TCPServer\Client\bin\Debug\Client.exe
+D:\Faculta\an-3\delia tuse\TCPServer\Client\bin\Debug\Client.pdb
+D:\Faculta\an-3\delia tuse\TCPServer\Client\bin\Debug\SimpleTCP.dll
+D:\Faculta\an-3\delia tuse\TCPServer\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Faculta\an-3\delia tuse\TCPServer\Client\obj\Debug\Client.Form1.resources
+D:\Faculta\an-3\delia tuse\TCPServer\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Faculta\an-3\delia tuse\TCPServer\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Faculta\an-3\delia tuse\TCPServer\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Faculta\an-3\delia tuse\TCPServer\Client\obj\Debug\Client.csproj.CopyComplete
+D:\Faculta\an-3\delia tuse\TCPServer\Client\obj\Debug\Client.exe
+D:\Faculta\an-3\delia tuse\TCPServer\Client\obj\Debug\Client.pdb
